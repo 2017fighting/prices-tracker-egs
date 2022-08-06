@@ -1,0 +1,24 @@
+{
+  "id": "bed15e44b7e44d7b9cc00f1281c97a69",
+  "price": {
+    "totalPaymentPrice": {
+      "paymentCurrencyAmount": 58800,
+      "paymentCurrencyCode": "KRW",
+      "paymentCurrencyExchangeRate": 1,
+      "paymentCurrencySymbol": "₩"
+    },
+    "totalPrice": {
+      "basePayoutCurrencyCode": "USD",
+      "basePayoutPrice": 4746,
+      "convenienceFee": 0,
+      "currencyCode": "KRW",
+      "discount": 0,
+      "discountPrice": 58800,
+      "originalPrice": 58800,
+      "originalUnitPrice": null,
+      "unitPrice": null,
+      "vat": 5340,
+      "voucherDiscount": 0
+    }
+  }
+}
