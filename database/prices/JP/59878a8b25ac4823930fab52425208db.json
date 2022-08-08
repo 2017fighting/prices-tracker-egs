@@ -1,23 +1,23 @@
 {
-  "id": "26e4b3bdbcf940fd82d04ac96ada2a5f",
+  "id": "59878a8b25ac4823930fab52425208db",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 9495,
-      "paymentCurrencyCode": "AUD",
+      "paymentCurrencyAmount": 3080,
+      "paymentCurrencyCode": "JPY",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "$"
+      "paymentCurrencySymbol": "¥"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 5957,
+      "basePayoutPrice": 2073,
       "convenienceFee": 0,
-      "currencyCode": "AUD",
+      "currencyCode": "JPY",
       "discount": 0,
-      "discountPrice": 9495,
-      "originalPrice": 9495,
+      "discountPrice": 3080,
+      "originalPrice": 3080,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 863,
+      "vat": 280,
       "voucherDiscount": 0
     }
   }
