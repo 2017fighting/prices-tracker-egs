@@ -2,22 +2,22 @@
   "id": "acade1bf41b244cb8fba9162d6ea1705",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 324900,
+      "paymentCurrencyAmount": 194940,
       "paymentCurrencyCode": "INR",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "₹"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 3447,
+      "basePayoutPrice": 2068,
       "convenienceFee": 0,
       "currencyCode": "INR",
-      "discount": 0,
-      "discountPrice": 324900,
+      "discount": 129960,
+      "discountPrice": 194940,
       "originalPrice": 324900,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 49561,
+      "vat": 29737,
       "voucherDiscount": 0
     }
   }
