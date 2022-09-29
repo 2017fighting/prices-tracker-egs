@@ -2,18 +2,18 @@
   "id": "f5b2f6f627fc42ab9faae57a9db57837",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 49,
+      "paymentCurrencyAmount": 39,
       "paymentCurrencyCode": "USD",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "$"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 49,
+      "basePayoutPrice": 39,
       "convenienceFee": 0,
       "currencyCode": "USD",
-      "discount": 0,
-      "discountPrice": 49,
+      "discount": 10,
+      "discountPrice": 39,
       "originalPrice": 49,
       "originalUnitPrice": null,
       "unitPrice": null,
