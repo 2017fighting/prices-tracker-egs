@@ -1,23 +1,23 @@
 {
-  "id": "4c61edc4573143c5a06d521f5a7f32fe",
+  "id": "8ff46a1fcab24659a1a1d82f400f2a88",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 13200,
-      "paymentCurrencyCode": "SEK",
+      "paymentCurrencyAmount": 62900,
+      "paymentCurrencyCode": "UAH",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "kr"
+      "paymentCurrencySymbol": "₴"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 940,
+      "basePayoutPrice": 1706,
       "convenienceFee": 0,
-      "currencyCode": "SEK",
+      "currencyCode": "UAH",
       "discount": 0,
-      "discountPrice": 13200,
-      "originalPrice": 13200,
+      "discountPrice": 62900,
+      "originalPrice": 62900,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 2640,
+      "vat": 0,
       "voucherDiscount": 0
     }
   }
