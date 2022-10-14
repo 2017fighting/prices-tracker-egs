@@ -2,18 +2,18 @@
   "id": "ffa3e62bd38d4ebf9b511c91731c353c",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 4399,
+      "paymentCurrencyAmount": 3959,
       "paymentCurrencyCode": "CAD",
       "paymentCurrencyExchangeRate": 1,
       "paymentCurrencySymbol": "$"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 3197,
+      "basePayoutPrice": 2877,
       "convenienceFee": 0,
       "currencyCode": "CAD",
-      "discount": 0,
-      "discountPrice": 4399,
+      "discount": 440,
+      "discountPrice": 3959,
       "originalPrice": 4399,
       "originalUnitPrice": null,
       "unitPrice": null,
