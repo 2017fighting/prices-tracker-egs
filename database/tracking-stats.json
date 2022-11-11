@@ -1,8 +1,8 @@
 {
   "timeUnit": "ms",
-  "fetchStoreCurrencies": 1295,
-  "fetchStoreOfferPricesTime": 2131242,
-  "indexTime": 7673,
-  "lastUpdate": 1668202870431,
-  "lastUpdateString": "2022-11-11T21:41:10.431Z"
+  "fetchStoreCurrencies": 1200,
+  "fetchStoreOfferPricesTime": 2064928,
+  "indexTime": 6530,
+  "lastUpdate": 1668206414205,
+  "lastUpdateString": "2022-11-11T22:40:14.205Z"
 }
