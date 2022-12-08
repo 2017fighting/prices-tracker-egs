@@ -1,20 +1,20 @@
 {
-  "id": "bb5e3c661a4b4d33bb97bf058b7d1a6d",
+  "id": "f5b85ecef7d94c588ddd90a010103a34",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 319900,
-      "paymentCurrencyCode": "RUB",
+      "paymentCurrencyAmount": 0,
+      "paymentCurrencyCode": "AED",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "₽"
+      "paymentCurrencySymbol": "د.إ"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 5159,
+      "basePayoutPrice": 0,
       "convenienceFee": 0,
-      "currencyCode": "RUB",
+      "currencyCode": "AED",
       "discount": 0,
-      "discountPrice": 319900,
-      "originalPrice": 319900,
+      "discountPrice": 0,
+      "originalPrice": 0,
       "originalUnitPrice": null,
       "unitPrice": null,
       "vat": 0,
