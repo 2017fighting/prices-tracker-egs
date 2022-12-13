@@ -1,23 +1,23 @@
 {
-  "id": "05aaf965df834554a717e50ec031ae8d",
+  "id": "e228bbf9d1db48af939ad9bea9e17bfb",
   "price": {
     "totalPaymentPrice": {
-      "paymentCurrencyAmount": 5400,
-      "paymentCurrencyCode": "JPY",
+      "paymentCurrencyAmount": 7899,
+      "paymentCurrencyCode": "AED",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "¥"
+      "paymentCurrencySymbol": "د.إ"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 3570,
+      "basePayoutPrice": 2151,
       "convenienceFee": 0,
-      "currencyCode": "JPY",
+      "currencyCode": "AED",
       "discount": 0,
-      "discountPrice": 5400,
-      "originalPrice": 5400,
+      "discountPrice": 7899,
+      "originalPrice": 7899,
       "originalUnitPrice": null,
       "unitPrice": null,
-      "vat": 491,
+      "vat": 0,
       "voucherDiscount": 0
     }
   }
