@@ -3,15 +3,15 @@
   "price": {
     "totalPaymentPrice": {
       "paymentCurrencyAmount": 399,
-      "paymentCurrencyCode": "EUR",
+      "paymentCurrencyCode": "USD",
       "paymentCurrencyExchangeRate": 1,
-      "paymentCurrencySymbol": "€"
+      "paymentCurrencySymbol": "$"
     },
     "totalPrice": {
       "basePayoutCurrencyCode": "USD",
-      "basePayoutPrice": 421,
+      "basePayoutPrice": 399,
       "convenienceFee": 0,
-      "currencyCode": "EUR",
+      "currencyCode": "USD",
       "discount": 0,
       "discountPrice": 399,
       "originalPrice": 399,
